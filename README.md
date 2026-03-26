@@ -80,6 +80,9 @@ The application is built using a **Spring Boot backend** and a **React frontend*
 - Tailwind CSS (Styling & responsive UI)
 - HTML, CSS
 
+### Database
+-Mysql
+
 ---
 
 ## 🚀 Getting Started
