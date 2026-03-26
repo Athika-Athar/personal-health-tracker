@@ -78,10 +78,10 @@ The application is built using a **Spring Boot backend** and a **React frontend*
 - Axios (API communication)
 - Chart.js (Data visualization)
 - Tailwind CSS (Styling & responsive UI)
-- HTML, CSS
+- HTML
 
 ### Database
--Mysql
+- Mysql
 
 ---
 
