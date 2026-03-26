@@ -7,8 +7,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### Spring Boot / Sensitive Config ###
-application.properties
+### Environment files ###
 .env
 
 ### STS ###
