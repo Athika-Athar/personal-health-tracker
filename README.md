@@ -1,4 +1,4 @@
-# 🩺 Personal Health Tracker
+# 🩺 Personal Health and Wellness Tracking System
 
 **Personal Health Tracker** is a full-stack web application that helps users monitor, manage, and improve their personal wellness by tracking health-related data through a secure and user-friendly web interface.
 
